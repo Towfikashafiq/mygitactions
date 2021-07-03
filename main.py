@@ -7,4 +7,3 @@ def bye():
 
 
 print(hello())
-© 2021 GitHub, Inc.
